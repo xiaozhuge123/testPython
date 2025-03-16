@@ -27,3 +27,4 @@ if __name__ == "__main__":
     n = 5
     res = for_loop(n)
     print(f"\nfor 循环的求和结果 res = {res}")
+    print(f"\nfor 循环的求和结果 res = {res}")
